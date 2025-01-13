@@ -1,8 +1,8 @@
 const config = {
     baseUrl: 'https://devil-torrents.pl',
     credentials: {
-        username: 'matush555',
-        password: '08071991ms'
+        username: 'm
+        password: '0
     }
 }
 
